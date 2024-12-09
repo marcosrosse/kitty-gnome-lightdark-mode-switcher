@@ -3,8 +3,8 @@
 
 state_path="$HOME"/.local/state/TERMINAL_MODE
 
-dark_theme=Catppuccin-Mocha
-light_theme=Catppuccin-Latte
+dark_theme="Sea Shells"
+light_theme="Renault Style Light"
 
 if [ ! -f "$state_path" ]; then
 	echo 'dark' > "$state_path"
